@@ -11,7 +11,6 @@
   inputs.src-json_rpc-master.ref   = "refs/heads/master";
   inputs.src-json_rpc-master.owner = "status-im";
   inputs.src-json_rpc-master.repo  = "nim-json-rpc";
-  inputs.src-json_rpc-master.dir   = "";
   inputs.src-json_rpc-master.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
@@ -61,6 +60,14 @@
   inputs."chronicles".type  = "github";
   inputs."chronicles".inputs.nixpkgs.follows = "nixpkgs";
   inputs."chronicles".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."github.com/status-im/news".owner = "nim-nix-pkgs";
+  inputs."github.com/status-im/news".ref   = "master";
+  inputs."github.com/status-im/news".repo  = "github.com/status-im/news";
+  inputs."github.com/status-im/news".dir   = "";
+  inputs."github.com/status-im/news".type  = "github";
+  inputs."github.com/status-im/news".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."github.com/status-im/news".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
   inputs."websock".owner = "nim-nix-pkgs";
   inputs."websock".ref   = "master";
