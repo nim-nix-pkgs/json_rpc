@@ -942,11 +942,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1665580930,
-        "narHash": "sha256-OeK6nmJmvoSgzTApKrfxYLYiS8+oaBuUb1o+FhyUtqk=",
+        "lastModified": 1667332284,
+        "narHash": "sha256-s+rg0wjvPfk9Xp0/q5YMhnnBegkI8lpGAlxk7cdTLbw=",
         "owner": "nim-nix-pkgs",
         "repo": "json_rpc",
-        "rev": "c43f17e63482f7b6e9c3a89162ff8d3cdfbf0012",
+        "rev": "d343a751dbfdcebae1126756a848a078fb779fc4",
         "type": "github"
       },
       "original": {
