@@ -1091,11 +1091,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667336832,
-        "narHash": "sha256-x8DNGSJ7tLyiLlGSyTggzT7yay8FZ8HAb1yZHhm4mDE=",
+        "lastModified": 1668752037,
+        "narHash": "sha256-SlIpKUb+tMi90hoGugTiIPTd7Npo8CYTVesgBaaWZOs=",
         "owner": "nim-nix-pkgs",
         "repo": "json_rpc",
-        "rev": "77594275daf9280ebabcb75f616f024e43499b4b",
+        "rev": "bfb168f18f2d08a9bea3ed7d5820a61f98105419",
         "type": "github"
       },
       "original": {
