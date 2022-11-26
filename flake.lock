@@ -1061,11 +1061,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1669417861,
-        "narHash": "sha256-raRFQ1DWfOgqAq6/SlcEiankuZnOvXJW3tfwzasV2d4=",
+        "lastModified": 1669433906,
+        "narHash": "sha256-u1zChtzsk7LZccgCPSJbYgF4NnszQ5xH7qoJtC8dUjM=",
         "owner": "nim-nix-pkgs",
         "repo": "json_rpc",
-        "rev": "7d11e81b97158cee34b7d8fa4c2bd0a489cb5e9f",
+        "rev": "78558965bf06740c286197ac18ca2c122b525f77",
         "type": "github"
       },
       "original": {
